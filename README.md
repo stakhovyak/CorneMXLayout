@@ -8,6 +8,11 @@ ues Vial to able to set this up. includes just two layers, no arrows as i am use
   <img src="https://github.com/stakhovyak/CorneMXLayout/blob/b3fa89746a22b64e02d6d73b84301fbe7290558c/layer_0.png" alt="my keeb layout layer 0"/>
 </p>
 
+## NOTE
+
+I swapped Ctrl and Caps Lock on my laptop
+that's why there is Caps where the Ctrl should be!
+
 ## Layer 1
 
 <p align="center">
